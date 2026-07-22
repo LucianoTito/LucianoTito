@@ -58,13 +58,4 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucianoTito&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoTito&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
-</p>
-
----
-
 <p align="center"><i>Abierto a oportunidades como desarrollador backend. ¡Hablemos! 🚀</i></p>
